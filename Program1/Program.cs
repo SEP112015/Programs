@@ -54,7 +54,7 @@ Console.WriteLine("Hello, World!");
 //Console.WriteLine($"LA DIVISION DE {num1} y {num2} ES IGUAL A {RESULTADO_DIVISION}");
 
 
-// CALCULADORAAAAAAAAAAAAAAAAAAAAAA:
+// CALCULADORAAAAAAAAAAAAAAAAAAAAA:
 
 Console.WriteLine("INTRODUCE EL PRIMER NUMERO AUÍ:");
 decimal num1 = decimal.Parse(Console.ReadLine());
